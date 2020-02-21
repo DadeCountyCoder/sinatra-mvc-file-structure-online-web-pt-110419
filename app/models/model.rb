@@ -1,6 +1,6 @@
 class Dog
   
-  def initialize
+  def initialize(name, breed, age)
     
   end
 
